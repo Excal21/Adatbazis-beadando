@@ -1,0 +1,14 @@
+Azonosító	Okirat száma	Vásárló neve	Kedvezménye			Osztály	Fizetési mód		Fizetett
+78		792569EO	Kocsis Éva	Nappali tagozatos diákigazolvány	1	Kártyás fizetés		Igen
+111		630787TI		Cziráki Balázs	Nyugdíjas kedvezmény		1	SimplePay		Nem
+127		335611CL		Győri Olivér	Nappali tagozatos diákigazolvány	1	Revolut			Igen
+129		818976CM	Varga Krisztina	Nappali tagozatos diákigazolvány	1	Készpénz számlával		Igen
+291		222213CE	Szalai László	Nappali tagozatos diákigazolvány	1	Kártyás fizetés		Nem
+391		716576NC	Kocsis Réka	Hadigondozási igazolvány		1	Készpénz			Nem
+538		142973MB	Sipos Eszter	Nyugdíjas kedvezmény		2	Készpénz számlával		Nem
+644		630171CD	Farkas Krisztián	Nyugdíjas kedvezmény		2	Google Pay		Nem
+727		086016XF	Kozma Mária	Menekültek igazolása		1	SimplePay		Igen
+838		385982RF	Bíró István	Nemzetközi jegy			2	Revolut			Nem
+840		358560MM	Németh Orsolya	Nyugdíjas kedvezmény		2	SimplePay		Nem
+849		902220FD	Salamon János	FIP igazolvány (50%)		1	Google Pay		Igen
+888		640876EN	Papp Ferenc	Fogyatékkal élő látogatója		1	Revolut			Nem

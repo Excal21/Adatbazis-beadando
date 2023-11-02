@@ -1,0 +1,9 @@
+﻿67	18:28	Railjet Xpress		Nemzetiközi járat München Hbf (GER) felől Budapest-Keleti felé.
+141	09:28	Semmelweis EuroCity	Nemzetközi járat Wien Hbf (AUT) felől Budapest-Keleti felé.
+149	17:28	Hortobágy EuroCity		Nemzetközi járat Wien Hbf (AUT) felől Chop (UA) felé.
+311	10:06	Dráva InterCity		Nemzetközi járat Ljubljana (SLO) felől Budapest-Kelenföld felé. Vágányzár miatt vonatpótló autóbusz közlekedik Szombathely és Csorna, valamint Tatabánya és Budapest-Kelenföld között.
+313	16:06	Mura InterCity		Nemzetközi járat Graz (AUT) felől Budapest-Kelenföld felé. Vágányzár miatt vonatpótló autóbusz közlekedik Szombathely és Csorna, valamint Tatabánya és Budapest-Kelenföld között.
+921	18:57	Savaria InterCity		Vágányzár miatt vonatpótló autóbusz közlekedik Szombathely és Csorna, valamint Tatabánya és Budapest-Kelenföld között.
+937	08:57	Savaria InterCity		Vágányzár miatt vonatpótló autóbusz közlekedik Szombathely és Csorna, valamint Tatabánya és Budapest-Kelenföld között.
+987	06:24	Scarbantia InterCity		Vágányzár miatt vonatpótló autóbusz közlekedik Tatabánya és  Budapest-Kelenföld között.
+993	16:21	Tűztorony InterCity		Vágányzár miatt vonatpótló autóbusz közlekedik Tatabánya és  Budapest-Kelenföld között.
